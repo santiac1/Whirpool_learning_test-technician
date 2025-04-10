@@ -1,3 +1,5 @@
 # Whirpool_learning_test-technician
 
-## No agregue la carpeta de node_modules porque es la misma
+## Aquí estan todos los archivos actualizados para la vista del _technician
+
+#### No agregue la carpeta de node_modules porque es la misma
